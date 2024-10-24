@@ -8,4 +8,4 @@
 ![](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white)
 </div>
 
-This repository contains a collection of exercises focused on Java Memory Management and Garbage Collection. While Java abstracts much of memory management, knowing how it works helps you avoid pitfalls like memory leaks, especially in large-scale systems.
+This repository focuses on Java Memory Management and Garbage Collection. While Java abstracts much of memory management, knowing how it works helps you avoid pitfalls like memory leaks, especially in large-scale systems.
